@@ -1,0 +1,27 @@
+body {
+  background-color: peachpuff;
+}
+
+h1,
+p {
+  text-align: center;
+}
+
+.croissant-pic {
+  display: block;
+  margin: 20px auto;
+  border-radius: 20px;
+  max-width: 100%;
+}
+
+.links a {
+  margin-left: 10px;
+  margin-right: 10px;
+  color: teal;
+  cursor: pointer;
+}
+
+.links {
+  display: flex;
+  justify-content: center;
+}
